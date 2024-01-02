@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Local configuration
+.env
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Config files
+*.config.js
+config/
+
+# Dependency directories
+/jspm_packages/
+/public/system/
+/bower_components/
